@@ -34,3 +34,4 @@ void Vase::GetWorld() {
     cout << "Colour: " << GetColour() << endl;
     cout << "Available quantity: " << quantity << endl;
 }
+
